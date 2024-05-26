@@ -9,7 +9,7 @@
         <Description>Windows CoreAudio wrapper for .NET</Description>
         <PackageProjectUrl>https://github.com/morphx666/CoreAudio</PackageProjectUrl>
         <RepositoryUrl>https://github.com/morphx666/CoreAudio</RepositoryUrl>
-        <TargetFrameworks>net481;netstandard2.0;netstandard2.1</TargetFrameworks>
+        <TargetFrameworks>net6.0-windows</TargetFrameworks>
         <PackageReadmeFile>README.md</PackageReadmeFile>
         <PackageTags>audio; coreaudio;</PackageTags>
         <PackageIcon>coreaudio.png</PackageIcon>
